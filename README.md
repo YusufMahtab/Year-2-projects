@@ -1,4 +1,4 @@
-# Year-2-projects
+# Year 2 projects
 Collection of Python projects completed during my second year of university.
 
 Assignment 1, Yr2 computing, 2018-2019
